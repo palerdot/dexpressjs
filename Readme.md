@@ -34,4 +34,4 @@ app.all("/greet", function (request, response) {
 });
 ```   
 
-I have been using expressjs for some time without even knowing what is possible in nodejs itself, hence this simple project. This simple framework may expanded once in a while in future. 
+I have been using expressjs for some time without even knowing what is possible in nodejs itself, hence this simple project. 
